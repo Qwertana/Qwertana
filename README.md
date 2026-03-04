@@ -52,7 +52,8 @@
   <img src="https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=black"/>
   <img src="https://img.shields.io/badge/VSCode-ffb6c1?style=for-the-badge&logo=visual-studio-code&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CodeSandBox-ffb6c1?style=for-the-badge&logo=codesandbox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CodeSandBox-ffb6c1?style=for-the-badge&logo=codesandbox&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/CMD-ffb6c1?style=for-the-badge&logo=windows-terminal&logoColor=black"/>
 </p>
 
 <p align="center">

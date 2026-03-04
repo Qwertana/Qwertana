@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
-</p>
+
 
 <h1 align="center">🌙✨ Oii, eu sou a Ana Moreira ✨🌙</h1>
 
@@ -84,7 +82,7 @@ Email: anajum2001@gmail.com
 </p>
 
 <p align="center">
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="www.linkedin.com/in/ana-júlia-dos-santos">
     <img src="https://img.shields.io/badge/✦LinkedIn✦-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

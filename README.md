@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🌙✨ Oii, eu sou a Ana Moreira ✨🌙</h1>
+<h1 align="center">🌙✨ Oii, eu sou a Ana Júlia Moreira ✨🌙</h1>
 
 <p align="center">
 💖 Desenvolvedora em formação • 💻 Fullstack em construção • 🌙 Tech Girl Energy

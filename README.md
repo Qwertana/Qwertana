@@ -82,7 +82,7 @@ Email: anajum2001@gmail.com
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ana-júlia-dos-santos">
+  <a href="https://www.linkedin.com/in/ana-júlia-dos-santos/">
     <img src="https://img.shields.io/badge/✦LinkedIn✦-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
